@@ -3,12 +3,26 @@
   "version": "1.0.2",
   "description": "osstea2",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+ "scripts": {
+    "test": "git repository"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thornade05/osstea2.git"
   },
   "keywords": [
-    "npm"
+    "npm",
+    "osstea",
+    "tea",
+    "osstea2"
   ],
-  "author": "",
-  "license": "ISC"
+  "author": "thornade05",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thornade05/osstea2/issues"
+  },
+  "homepage": "https://github.com/thornade05/osstea2#readme",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
 }
